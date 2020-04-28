@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name     Desmartify google search buttons
+// @description Sorts the google search buttons the old way.
 // @version  1
 // @grant    none
 // @include  https://www.google.com/search*
+// @namespace https://greasyfork.org/users/22770
 // ==/UserScript==
-
+// jshint esversion:6
 let seq = ["Images", "Videos", "Maps", "News", "Shopping"];
 
 function arraysEqual(a, b) {
