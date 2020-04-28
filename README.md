@@ -1,5 +1,5 @@
 # DesmartifyGoogleSearch
-Greasemonkey script to sort the google search buttons.
+Greasemonkey script to sort the google search buttons and keep them in this order: "Images", "Videos", "Maps", "News", "Shopping"
 
 # Installation
 1. Install Greasemonkey
